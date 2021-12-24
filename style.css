@@ -384,18 +384,20 @@
 
 #text{
     color: #494235;
-    font-size: 15px;
+    font-size: 1vw;
     padding: 15px 20px;
-    height: 18vw;
-    margin-top: 100px;
+    height: 15vw;
+    margin-top: 80px;
     font-weight: 520;
 }
 #text2{
-    text-align: right;
+    margin-left: 6vw;
+    margin-top: 8vh;
+    text-align: left;
     padding-right: 20px;
     color: white;
     font-weight: 550;
-    font-size: 13px;
+    font-size: 1.6vw;
 }
 
 #op{
@@ -541,10 +543,10 @@ padding-bottom: 20px;
     font-size: 30px;
 }
 .square{
-    margin-top:30vh;
+    margin-top: 30vh;
      width: 70%;
      left: 30%;
-     height: 70vh;
+     height: 50vh;
      
 }
 
@@ -562,24 +564,25 @@ padding-bottom: 20px;
    
 }
 .ob{
-
     width: 100%;
 }
 .tekta2 #princ{
     padding-top: 100px;
 }
 #text{
-    margin-top: 60px;
-    height: 30%;
+    margin-top: 4vh;
+    height: 15vh;
+    font-size: 2.5vw;
 }
 #text2{
+    font-size: 3vw;
     text-align: left;
-    margin-top: -50%;
+    margin-top: 5vh;
     padding-left: 15px;
 }
 .bb{
     left: 0%;
-    margin-top: 80%;
+    margin-top: 8vh;
 }
 .bb svg{
     width: 50px;
@@ -587,12 +590,26 @@ padding-bottom: 20px;
 }
 .footer{
     height: 50vh;
-}
-.footer div{
-    padding-left: 20px;
    
 }
+.footer h1{
+    font-size: 2vw;
+}
+.footer h3{
+    font-size: 2vw;
+}
+.footer h2{
+    font-size: 2vw;
+}
+.footer h4{
+    font-size: 2vw;
+}
+.footer >div{
+    padding-left: 20px;
+    
+}
 #rp{
+     font-size: 1.7vw;
     padding-right: 20px;
 }
 
