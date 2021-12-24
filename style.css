@@ -248,53 +248,55 @@
       
   }
 
+
 /*------------------------*/
 .tekta1{
-    background-image: url("tekta.jpg");
-    width: 100%;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 500px;
-    padding-top: 300px;
-    padding-left: 40px;
+  background-image: url("/tekta.jpg");
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+  padding-top: 300px;
+  padding-left: 40px;
 }
 .tekta1 h4{
-    font-size: 12vmax;
-    color: white;
-    font-weight: 350;
-    text-transform: uppercase;
-    line-height: 12vmax;
-    
+  font-size: 12vmax;
+  color: white;
+  font-weight: 350;
+  text-transform: uppercase;
+  line-height: 12vmax;
+  
 }
 .tekta2{
-    background-color:rgb(39, 34, 33);
-    padding-top: 20vw;
-    color: white;
+  background-color:rgb(39, 34, 33);
+  padding-top: 20vw;
+  color: white;
 }
 .tekta2 #col1{
-    padding-left: 15%;
+  padding-left: 15%;
 }
 .nt #num{
-    font-size: 45px;
-    font-weight: 300;
+  font-size: 45px;
+  font-weight: 300;
 }
 .nt #tx{
-    font-weight: 550;
-    color: rgb(206, 163, 169);
+  font-weight: 550;
+  color: rgb(206, 163, 169);
 }
 .tekta2 #col2{
-    font-size: 40px;
-    font-weight: 300;
-    z-index: 3;
+  font-size: 40px;
+  font-weight: 300;
+  z-index: 3;
 }
 .tekta2  #pinkText{
-    color:rgb(206, 163, 169) ;
+  color:rgb(206, 163, 169) ;
 }
 .tekta2 #princ{
-    margin-bottom: 0;
-    padding-bottom: 30px;
-    padding-left: 20px;
+  margin-bottom: 0;
+  padding-bottom: 30px;
+  padding-left: 20px;
 }
+
 .circle{
     text-align: center;
     width: 45vmax;
@@ -420,17 +422,16 @@ color: rgb(110, 85, 85);
 .bb svg{
     color: rgb(39, 34, 33);
 }
+
+
 .footer{
     width:100%;
-    height: 500px;
+    height: 450px;
     background-color:rgb(39, 34, 33);
    display: flex;
 }
 .footer >div{
-    padding-top: 70px;
-    padding-left: 75px;
-
-   width: 550px;
+    padding-left: 75px;width: 700px;
 }
 .footer h2{
 color: rgb(224, 224, 224);
@@ -449,13 +450,16 @@ padding-bottom: 20px;
     padding-top: 50px;
 }
 .footer h1{
-    text-align: left;
     color:rgb(221, 180, 180);
     font-size: 14px;
 }
 .footer div{
     color:rgb(116, 106, 87);
     font-size: 10px;
+}
+.content{
+    padding-bottom: 120px;
+    background-color: rgb(39, 34, 33);
 }
 #footerHr{
     margin: 0px 20px;
@@ -565,18 +569,17 @@ padding-bottom: 20px;
     padding-top: 100px;
 }
 #text{
+    margin-top: 60px;
     height: 30%;
 }
 #text2{
-    position: absolute;
-    top: 30vh;
     text-align: left;
     margin-top: -50%;
     padding-left: 15px;
 }
 .bb{
     left: 0%;
-    margin-top:20vh;
+    margin-top: 80%;
 }
 .bb svg{
     width: 50px;
@@ -585,16 +588,14 @@ padding-bottom: 20px;
 .footer{
     height: 50vh;
 }
-.footer >div{
+.footer div{
     padding-left: 20px;
-    font-size: 3vw;
+   
 }
 #rp{
     padding-right: 20px;
 }
-#footerHr{
-    margin-top: 100px;
-}
+
 
 }
 /*------------------*/
@@ -603,5 +604,3 @@ padding-bottom: 20px;
 
 
 /* жасыл rgb(116, 106, 87) */
-
-
