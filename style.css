@@ -569,7 +569,6 @@ padding-bottom: 20px;
   
   .phIcon1:hover{
       background-color:  #494235;
-      
     }
    
   .phIcon2:hover{
@@ -767,7 +766,7 @@ right: 12vw;
 @media(max-width: 700px){
     .phIcon1{
         margin-top: 10px;
-        margin-left: -2vw;
+        margin-left: 0vw;
      }
     .sub{
         margin-top: 2vw;
