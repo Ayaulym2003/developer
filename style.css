@@ -251,7 +251,7 @@
 
 /*------------------------*/
 .tekta1{
-  background-image: url("/tekta.jpg");
+  background-image: url("tekta.jpg");
   width: 100%;
   background-repeat: no-repeat;
   background-size: cover;
